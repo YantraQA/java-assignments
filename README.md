@@ -1,5 +1,6 @@
-# java-assignments
-This repository contains assignments over different topics on core java.
+# Java Assignments
+
+This repository contains assignments over different topics on core java. For training purposes.
 
 ---
 
