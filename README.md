@@ -5,7 +5,7 @@ This repository contains assignments over different topics on core java. For tra
 ---
 
 ### Assignment - 1 
- [Topics covred - Inheritance, Polymorphism(Overriding)] 
+ [Topics covred - Class, Objects, Inheritance, Polymorphism(Overriding)] 
 
 * STEP - I 
 Create an project with name "EduationCulture"
