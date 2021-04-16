@@ -5,7 +5,7 @@
 
 ---
 
-### Assignment-Code-Challenge - 1 
+### Assignment-Code-Challenge - 1 - Classes and Inheritance (ComplexityLevel:Low)
  > [Topics covred - Class, Objects, Inheritance, Polymorphism(Overriding)] 
 
 * STEP - I 
@@ -66,7 +66,7 @@ Create an project with name "EduationCulture"
     
  ---
  
- ### Assignment-Code-Challenge - 2 - Compute Sin X series
+ ### Assignment-Code-Challenge - 2 - Compute Sin X series (ComplexityLevel:Medium)
 > Topic Covered: Logic Building; For looping, Nested For Loop
 
 * Write a program to compute sinx for given x. 
