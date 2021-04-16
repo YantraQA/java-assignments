@@ -1,11 +1,12 @@
-# Java Assignments
+# Java Assignments and Code Challenges
 
-This repository contains assignments over different topics on core java. For training purposes.
+* This repository contains assignments and code challenges over different topics on core java.
+* Solutions will also be provided in the same repository.
 
 ---
 
-### Assignment - 1 
- [Topics covred - Class, Objects, Inheritance, Polymorphism(Overriding)] 
+### Assignment-Code-Challenge - 1 
+ > [Topics covred - Class, Objects, Inheritance, Polymorphism(Overriding)] 
 
 * STEP - I 
 Create an project with name "EduationCulture"
@@ -64,3 +65,12 @@ Create an project with name "EduationCulture"
     Post this entire project inside an github repository & share the URL.
     
  ---
+ 
+ ### Assignment-Code-Challenge - 2
+> Topic Covered: Logic Building; For looping, Nested For Loop
+
+* Write a program to compute sinx for given x. 
+* The method should accept x and a positive integer n. 
+* We compute the sine of x using the series and the computation should use all terms in the series up through the term involving x^n
+* This is what you need to compute:
+> sin x = x - x3/3! + x5/5! - x7/7! + x9/9! .......
