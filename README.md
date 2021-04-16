@@ -66,7 +66,7 @@ Create an project with name "EduationCulture"
     
  ---
  
- ### Assignment-Code-Challenge - 2
+ ### Assignment-Code-Challenge - 2 - Compute Sin X series
 > Topic Covered: Logic Building; For looping, Nested For Loop
 
 * Write a program to compute sinx for given x. 
